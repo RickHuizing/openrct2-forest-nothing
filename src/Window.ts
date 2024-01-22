@@ -63,12 +63,12 @@ export function openMenu() {
 
 
             ui.openWindow({
-                classification: 'forest Nothing',
+                classification: 'Forest Nothing',
                 // minWidth: 100,
                 // minHeight: 125,
                 width: width + padding,
                 height: height + padding,
-                title: 'forest Nothing',
+                title: 'Forest Nothing',
                 widgets: widgets,
             })
         }
