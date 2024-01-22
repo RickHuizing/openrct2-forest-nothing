@@ -3,7 +3,7 @@ import {installedTrees} from "./trees";
 
 export function openMenu() {
     if (typeof ui !== "undefined") {
-        let window = ui.getWindow('Forrest Nothing')
+        let window = ui.getWindow('Forest Nothing')
         if (window != null) {
             window.bringToFront()
         } else {
@@ -63,12 +63,12 @@ export function openMenu() {
 
 
             ui.openWindow({
-                classification: 'Forrest Nothing',
+                classification: 'forest Nothing',
                 // minWidth: 100,
                 // minHeight: 125,
                 width: width + padding,
                 height: height + padding,
-                title: 'Forrest Nothing',
+                title: 'forest Nothing',
                 widgets: widgets,
             })
         }

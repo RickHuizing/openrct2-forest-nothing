@@ -3,7 +3,7 @@
 import { startup } from "./startup";
 
 registerPlugin({
-	name: "Forrest Nothing",
+	name: "Forest Nothing",
 	version: "1.0",
 	authors: [ "Rick Huizing" ],
 	type: "remote",
