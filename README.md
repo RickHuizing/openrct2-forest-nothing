@@ -18,6 +18,7 @@ scenery is loaded from the following scenery groups:
 'rct2.scenery_group.scgshrub' - Shrubs and Ornaments (statues and fountains manually removed)
 ```
 
+I got the idea from someone I think on the OpenRCT2 Github, but can't seem to find their post anymore.
 
 #### big thanks to Basssiiie for his plugin template
 The template can be found at https://github.com/Basssiiie/OpenRCT2-Simple-Typescript-Template
